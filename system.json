@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "testing ipm package creation",
+    "messaging_url": "iotright.clearblade.com:1883",
+    "name": "IPMTest",
+    "platform_url": "https://iotright.clearblade.com",
+    "system_key": "8ecf88d00be0adb6daba809aae23",
+    "system_secret": ""
+}
